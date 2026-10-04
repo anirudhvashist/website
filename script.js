@@ -2,26 +2,19 @@ const githubProfile = "https://github.com/anirudhvashist";
 
 const projectData = [
   {
-    title: "Ghost Hunter",
-    category: "DIGITAL FORENSICS · PYTHON",
-    description: "A Streamlit dashboard exploring digital forensics timelines and making incident data easier to read.",
-    stack: ["Python", "Streamlit", "DFIR", "Visualization"],
-    badge: "GH"
+    title: "Focus Flow",
+    category: "PRODUCTIVITY · UTILITIES & TOOLS",
+    description: "It is a minimal, distraction-free web-app designed to help you organize your daily work and protect your attention.",
+    stack: ["HTML", "CSS", "JAVASCRIPT"],
+    badge: "FF"
   },
   {
-    title: "WhatsApp Notification Router",
-    category: "AI · AUTOMATION",
-    description: "A learning project exploring how incoming messages could be sorted and routed with automation.",
-    stack: ["Python", "LLM", "Agents", "Automation"],
-    badge: "WA"
+    title: "Campus X Change",
+    category: "E-COMMERCE · CAMPUS MARKETPLACE",
+    description: "A peer-to-peer marketplace for students to buy, sell, and exchange books, electronics, hostel essentials, and more within their campus community.",
+    stack: ["Next.js", "React 19", "Tailwind CSS", "PostgreSQL", "Prisma", "Cloudinary", "Vercel"],
+    badge: "CxC"
   },
-  {
-    title: "AI Agent Experiments",
-    category: "AI · PYTHON · APIS",
-    description: "A collection of experiments with multi-step prompts, APIs, and small autonomous workflows.",
-    stack: ["Python", "AI", "APIs", "Workflows"],
-    badge: "AI"
-  }
 ];
 
 const certificateData = [
